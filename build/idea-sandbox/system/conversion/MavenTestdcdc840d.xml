@@ -1,0 +1,16 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/danplubell/IdeaProjects/MavenTest/.idea/workspace.xml" timestamp="1588535494741" />
+    <file path="/Users/danplubell/IdeaProjects/MavenTest/.idea/compiler.xml" timestamp="1588536353177" />
+    <file path="/Users/danplubell/IdeaProjects/MavenTest/.idea/encodings.xml" timestamp="1588535494755" />
+    <file path="/Users/danplubell/IdeaProjects/MavenTest/.idea/misc.xml" timestamp="1588535416187" />
+    <file path="/Users/danplubell/IdeaProjects/MavenTest/.idea/jarRepositories.xml" timestamp="1588535494764" />
+  </project-files>
+</conversion>

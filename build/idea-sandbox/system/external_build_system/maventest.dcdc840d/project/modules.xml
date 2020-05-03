@@ -1,0 +1,7 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MavenTest.iml" filepath="$PROJECT_DIR$/MavenTest.iml" />
+    </modules>
+  </component>
+</project>
