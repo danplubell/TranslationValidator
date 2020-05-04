@@ -4,13 +4,13 @@
       <map>
         <entry key="$USER_HOME$/IdeaProjects/MavenTest">
           <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1bPYtUES2EEY00yAKxpCxnSBAD5">
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1bPYtUES2EEY00yAKxpCxnSBAD5">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-201.7223.91" />
-              <option name="buildTimestamp" value="1588220660194" />
+              <option name="buildTimestamp" value="1588220662610" />
               <frame x="140" y="43" width="1400" height="907" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1588536324158" />
+              <option name="projectOpenTimestamp" value="1588545929091" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

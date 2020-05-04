@@ -4,8 +4,11 @@
       <entry key="WelcomeScreen.CreateNewProject">
         <ActionSummary times="2" last="1588535353082" />
       </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="1" last="1588545927728" />
+      </entry>
       <entry key="com.plubell.translation.validator.actions.PopupDialogAction">
-        <ActionSummary times="2" last="1588536336015" />
+        <ActionSummary times="3" last="1588545936948" />
       </entry>
     </data>
   </component>
